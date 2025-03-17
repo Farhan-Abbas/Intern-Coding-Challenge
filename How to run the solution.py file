@@ -1,0 +1,10 @@
+I am using a virtual environment for this project.
+The virtual environment contains the pandas library therefore you don't have to install anything extra.
+
+To activate the virtual environment, please use:
+Linux/MacOS: source venv/bin/activate
+Windows: venv\Scripts\activate
+
+Then, please run the solution.py file and it will generate an Output.json file which will contain the list of common signals.
+
+Thank you!
